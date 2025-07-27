@@ -1,4 +1,4 @@
-# temp_conversion_tool.py
+# temp_conversion_tool.py tool
 
 # Global conversion factors (no spaces to match the auto-checker)
 FAHRENHEIT_TO_CELSIUS_FACTOR = 5/9
